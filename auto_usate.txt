@@ -1,0 +1,16 @@
+
+marca / casa di produzione: VARCHAR(30)
+model: VARCHAR(30)
+dimension: VARCHAR(15)
+weight: VARCHAR(10)
+color: VARCHAR(20) / TEXT
+matriculation: VARCHAR(4) / YEAR 
+fuel: VARCHAR(20) / TEXT
+engine(motore): VARCHAR(40)
+details engine: TEXT
+mileage(km or mi): INT
+matriculation: 
+last revision: VARCHAR(4) / YEAR
+description: TEXT
+
+
